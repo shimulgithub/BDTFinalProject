@@ -1,0 +1,9 @@
+/bin/
+.project
+.classpath
+.idea
+BDTFinalProject.iml
+.DS_Store
+/target/
+.settings
+src/main/resources/twitter.properties
